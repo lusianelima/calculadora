@@ -14,12 +14,6 @@ Projeto de uma calculadora funcional feita com **HTML**, **CSS** e **JavaScript*
 
 ---
 
-## 🖼️ Prévia
-
-![Calculadora preview](./preview.png)
-
----
-
 ## 🛠️ Tecnologias usadas
 
 - HTML5  
