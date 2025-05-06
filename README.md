@@ -63,6 +63,6 @@ calculadora/
 
 ## 🧑‍💻 Autora
 
-Feito com 💙 por Lusiane Lima  
+Feito por Lusiane Lima 💙 
 
  
